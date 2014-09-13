@@ -1,0 +1,6 @@
+{
+	"bone0":{"sx":0,"sy":0 ,"tileW":20,"tileH":35,"frames":1},
+	"bone1":{"sx":0,"sy":20,"tileW":20,"tileH":35,"frames":1},
+	"bone2":{"sx":0,"sy":45,"tileW":20,"tileH":35,"frames":1},
+	"bone3":{"sx":0,"sy":75,"tileW":20,"tileH":35,"frames":1}
+}
