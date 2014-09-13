@@ -18,11 +18,11 @@ var nivel=6;
 
 //***LOAD*********************************************************************************//
 Q.load(["mainTitle.png","coin.png","perro1.png","perro2.png","perro3.png","bone.png","policia.png","ladrido.png"
-      ,"poder1.png","piruleta.png", "select1.png","select2.png","select3.png","cat1.png","Sky BG.png","pitcher.png" 
+      ,"poder1.png","piruleta.png", "select1.png","select2.png","select3.png","cat1.png","pitcher.png" 
       ,"rock.png","hearts0.png","hearts1.png","hearts2.png","hearts3.png","hearts4.png","hearts5.png","hearts6.png"
       ,"dayBg.png","spikes.png","fallingRock.png","woodSign.png","coin.png","heart.png","candy.png","star.png","night.png"
       ,"home.png"  //IMÁGENES
-      , "music_main.mp3", "coin.mp3","music_die.mp3","music_level_complete.mp3" //AUDIO
+       //AUDIO
       , "coin.json","perro1.json","perro2.json","perro3.json","bone.json", "policia.json","ladrido.json","poder1.json",
       ,"pitcher.json","piruleta.json","cat1.json","rock.json"] //DATA
       ,function() {
